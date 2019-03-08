@@ -1,0 +1,4 @@
+/opt/clion-2018.3.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_v2"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_v2/cmake-build-debug

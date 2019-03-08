@@ -1,0 +1,3 @@
+/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_v2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_v2/cmake-build-debug/CMakeFiles/Linked_List_v2.dir
+/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_v2/cmake-build-debug/CMakeFiles/edit_cache.dir
