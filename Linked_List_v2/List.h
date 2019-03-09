@@ -84,7 +84,7 @@ private:
     /// @brief It is responsible for analyzing the possible cases of elimination of a node:
     /// If it is a head or if it is in the middle of other nodes.
     /// @param prev Previous node to which you want to delete.
-    /// @param aux  Node which you want to remove. 
+    /// @param aux  Node which you want to remove.
 
     void removeSwapping(Node *prev, Node *aux){
         if(aux){

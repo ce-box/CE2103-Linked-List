@@ -4,7 +4,16 @@ using namespace std;
 #include "List.h"
 #include "Collector.h"
 
+void test_1();
+
 int main() {
+
+    test_1();
+
+    return 0;
+}
+
+void test_1(){
     List* list = new List();
     Collector* collector = Collector::getCollector();
 
@@ -20,7 +29,7 @@ int main() {
 
     // Printing the list
     cout << "------------------------"<<endl;
-    cout<<"Lista: ";list->printList();
+    cout<<"List : ";list->printList();
     cout << "------------------------"<<endl;
 
     // Removing a couple of items
@@ -29,7 +38,7 @@ int main() {
 
     // Printing the new list
     cout << "------------------------"<<endl;
-    cout<<"Lista: ";list->printList();
+    cout<<"List : ";list->printList();
     cout << "------------------------"<<endl;
 
     // Printing the collector list
@@ -38,21 +47,19 @@ int main() {
     // Adding another item and showing the actual list
     list->add(12);
     cout << "------------------------"<<endl;
-    cout<<"Lista: "; list->printList();
+    cout<<"List : "; list->printList();
     cout << "------------------------"<<endl;
 
     // Printing the collector
-    cout<<"Collector:"; collector->printCollector();cout<<"\n";
+    cout<<"Collector :"; collector->printCollector();cout<<"\n";
 
     // Adding another item and showing the actual list
     cout << "------------------------"<<endl;
     list->add(101);
     cout << "------------------------"<<endl;
-    cout<<"Lista: ";list->printList();
+    cout<<"List : ";list->printList();
     cout << "------------------------"<<endl;
 
     // For one last time, we print collector list
-    cout<<"Collector:"; collector->printCollector();cout<<"\n";
-
-    return 0;
+    cout<<"Collector :"; collector->printCollector();cout<<"\n";
 }
