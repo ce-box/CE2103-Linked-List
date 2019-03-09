@@ -1,4 +1,4 @@
-# Install script for directory: /home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_v2
+# Install script for directory: /home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_cpp/Linked_List_v2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_v2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

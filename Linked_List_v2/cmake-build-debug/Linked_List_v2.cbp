@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_v2/cmake-build-debug"/>
+				<Option working_dir="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_v2/cmake-build-debug"/>
+				<Option working_dir="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Linked_List_v2">
-				<Option output="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_v2/cmake-build-debug/Linked_List_v2" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_v2/cmake-build-debug"/>
+				<Option output="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/Linked_List_v2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -44,15 +44,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Linked_List_v2"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Linked_List_v2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Linked_List_v2/fast">
-				<Option output="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_v2/cmake-build-debug/Linked_List_v2" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_v2/cmake-build-debug"/>
+				<Option output="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/Linked_List_v2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -67,36 +67,36 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Linked_List_v2/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Linked_List_v2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_v2/cmake-build-debug"/>
+				<Option working_dir="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/esteban/Documentos/TEC/1S\ 2019/Algoritomos\ y\ estructuras\ de\ datos\ II/3.\ Extra\ Clases/Extra\ Clase\ 1/Linked_List_cpp/Linked_List_v2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_v2/Collector.h">
+		<Unit filename="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_cpp/Linked_List_v2/Collector.h">
 			<Option target="Linked_List_v2"/>
 		</Unit>
-		<Unit filename="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_v2/List.h">
+		<Unit filename="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_cpp/Linked_List_v2/List.h">
 			<Option target="Linked_List_v2"/>
 		</Unit>
-		<Unit filename="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_v2/Node.h">
+		<Unit filename="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_cpp/Linked_List_v2/Node.h">
 			<Option target="Linked_List_v2"/>
 		</Unit>
-		<Unit filename="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_v2/main.cpp">
+		<Unit filename="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_cpp/Linked_List_v2/main.cpp">
 			<Option target="Linked_List_v2"/>
 		</Unit>
-		<Unit filename="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_v2/CMakeLists.txt">
+		<Unit filename="/home/esteban/Documentos/TEC/1S 2019/Algoritomos y estructuras de datos II/3. Extra Clases/Extra Clase 1/Linked_List_cpp/Linked_List_v2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
