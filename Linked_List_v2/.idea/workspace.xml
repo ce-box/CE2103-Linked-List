@@ -34,14 +34,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06a05f8a-81a6-4ed0-bce3-c3a15ad68b0f" name="Default Changelist" comment="MAIN.CPP [MODIFICATION]&#10;&#10;--------------------------------------------------------------------------------&#10;Una pequeña modificacion del archivo &lt;main.cpp&gt;&#10;---------------------------------------------------------------------------------&#10;** Created 9/03/2019&#10;Course Algorithms and data structures. [TEC CR]&#10;&#10;@estalvgs1999">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List.h" beforeDir="false" afterPath="$PROJECT_DIR$/List.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Node.h" beforeDir="false" afterPath="$PROJECT_DIR$/Node.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linked_List_v2.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Linked_List_v2.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Linked_List_v2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Linked_List_v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/List_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/List_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/Node_8h_source.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/Node_8h_source.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/html/menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/tabs.css" beforeDir="false" afterPath="$PROJECT_DIR$/html/tabs.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
               <folding>
                 <element signature="e#146#1659#0" />
                 <element signature="e#1661#1681#0" />
@@ -69,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/List.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="67" column="13" lean-forward="true" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+            <state relative-caret-position="-306">
+              <caret line="67" column="13" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -88,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/Node.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="67">
-              <caret line="139" column="5" lean-forward="true" selection-start-line="139" selection-start-column="5" selection-end-line="139" selection-end-column="5" />
+              <caret line="139" column="5" selection-start-line="139" selection-start-column="5" selection-end-line="139" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -182,7 +178,7 @@
       <workItem from="1552032498713" duration="67000" />
       <workItem from="1552149246403" duration="2052000" />
       <workItem from="1552257137542" duration="860000" />
-      <workItem from="1552335682272" duration="4306000" />
+      <workItem from="1552335682272" duration="4585000" />
     </task>
     <task id="LOCAL-00001" summary="MAIN.CPP [MODIFICATION]&#10;&#10;--------------------------------------------------------------------------------&#10;Una pequeña modificacion del archivo &lt;main.cpp&gt;&#10;---------------------------------------------------------------------------------&#10;** Created 9/03/2019&#10;Course Algorithms and data structures. [TEC CR]&#10;&#10;@estalvgs1999">
       <created>1552150782576</created>
@@ -195,18 +191,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21044000" />
+    <option name="totallyTimeSpent" value="21323000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="69" y="39" width="1573" height="951" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2626064" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2626064" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32917705" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39828432" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -214,7 +209,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="TeamCity" order="8" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32843137" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49967256" weight="0.32958803" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49967256" visible="true" weight="0.32843137" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50032747" side_tool="true" weight="0.32917705" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32965687" />
       <window_info anchor="bottom" id="CMake" order="13" weight="0.32925338" />
@@ -244,7 +239,7 @@
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
           <folding>
             <element signature="e#146#1659#0" />
             <element signature="e#1661#1681#0" />
@@ -262,14 +257,14 @@
     <entry file="file://$PROJECT_DIR$/Node.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="67">
-          <caret line="139" column="5" lean-forward="true" selection-start-line="139" selection-start-column="5" selection-end-line="139" selection-end-column="5" />
+          <caret line="139" column="5" selection-start-line="139" selection-start-column="5" selection-end-line="139" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/List.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="67" column="13" lean-forward="true" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+        <state relative-caret-position="-306">
+          <caret line="67" column="13" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
         </state>
       </provider>
     </entry>
