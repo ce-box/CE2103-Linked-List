@@ -57,14 +57,24 @@ public:
     /// @param data item that will be removed from list.
 
     void remove(int data){
-        Node *auxNode = p_Head, *prev = nullptr;
-        while(auxNode->data != data){
-            prev = auxNode;
-            auxNode = auxNode->getNextNode();
-        }
+        if (p_Head) {
+            Node *auxNode = p_Head, *prev = nullptr;
 
-        removeSwapping(prev, auxNode);
+            // In order to eliminate the element must exist. If it does not exist, a message is sent:
+            // ERROR 404. ELEMENT NOT FOUND.
+            while(auxNode && auxNode->data != data){
+                prev = auxNode;
+                auxNode = auxNode->getNextNode();
+            }
+
+            if (auxNode) {
+                removeSwapping(prev, auxNode);
+            } else {
+                std::cout<<"Error 404 - Element not found"<<std::endl;
+            }
+        } else {std::cout<<"Error 400 - Empty List"<<std::endl;}
     }
+
 
     ///@brief Method responsible for displaying the list.
 

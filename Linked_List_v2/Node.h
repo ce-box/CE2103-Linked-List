@@ -144,8 +144,10 @@ Node* Collector::getMemoryReference() {
 
 void Collector::printCollector() {
 
-    for (Node* auxNode = p_Head;auxNode!= nullptr;auxNode=auxNode->getNextNode()) {
-        std::cout<< "[ "<<auxNode<<" ] ->";
+    if (p_Head) {
+        for (Node* auxNode = p_Head;auxNode!= nullptr;auxNode=auxNode->getNextNode()) {
+            std::cout<< "[ "<<auxNode<<" ] ->";
+        }
     }
     std::cout<< " NULL" << std::endl;
 }

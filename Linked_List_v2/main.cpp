@@ -5,10 +5,12 @@ using namespace std;
 #include "Collector.h"
 
 void test_1();
+void test_2();
 
 int main() {
 
     test_1();
+    test_2();
 
     return 0;
 }
@@ -62,4 +64,66 @@ void test_1(){
 
     // For one last time, we print collector list
     cout<<"Collector :"; collector->printCollector();cout<<"\n";
+}
+
+void test_2(){
+
+    List* list1 = new List();
+    List* list2 = new List();
+    Collector* collector = Collector::getCollector();
+
+    cout << "------------------------"<<endl;
+    cout << "    LINKED LIST TEST    "<<endl;
+    cout << "    (Multiple Lists)    "<<endl;
+    cout << "------------------------"<<endl;
+
+    // Adding some elements to both Lists
+
+    list1->add(11);
+    list1->add(34);
+    list1->add(1);
+
+    list2->add(24);
+    list2->add(99);
+    list2->add(13);
+
+    // Printing the lists
+    cout << "------------------------"<<endl;
+    cout<<"List 1 : ";list1->printList();
+    cout<<"List 2 : ";list2->printList();
+    cout << "------------------------"<<endl;
+
+    // Removing elements
+
+    list1->remove(34);
+    list2->remove(13);
+
+    // Print Collector
+
+    cout << "------------------------"<<endl;
+    cout<<"Collector: "; collector->printCollector();
+    cout << "------------------------"<<endl;
+
+    // Adding elements in reverse order from which they were removed
+
+    list2->add(15);
+    list1->add(8);
+
+    // what happens if i try to remove an element that doesnt exist on the list?
+    list1->remove(101);
+
+    // Printing the lists
+    cout << "------------------------"<<endl;
+    cout<<"List 1 : ";list1->printList();
+    cout<<"List 2 : ";list2->printList();
+    cout << "------------------------"<<endl;
+
+    // Print Collector
+
+    cout << "------------------------"<<endl;
+    cout<<"Collector: "; collector->printCollector();
+    cout << "------------------------"<<endl;
+
+    cout<<"\n\n";
+
 }
